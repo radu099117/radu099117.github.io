@@ -13,6 +13,10 @@ body,html {
 	padding: 20px;
 }
 
+.navbar-right li a:hover{
+	cursor: pointer;
+}
+
 #nav-name {
 	font-size: 37px;
 	font-weight: 700;
