@@ -1,0 +1,20 @@
+ES6
+-let variable = 12;-nu se face hoisting (nu afiseaza o variabila inainte de ai da o valoare)
+nu poti declara de doua ori o variabila cu acelasi nume
+
+-const
+-arrow functions
+this in arrow function este window.
+arrow functions dont have a prototype.
+-bind
+-default function parameters
+-rest
+-object literal extensions
+-for of loops.
+-ocatl binary literals.
+-template literals
+-destructuring
+-advanced destructuring.
+
+
+	
